@@ -1,5 +1,5 @@
 {
-  "name": "authentication",
+  "name": "jwt-authentication-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vikash20-12/Authentication.git"
+    "url": "git+https://github.com/harxhsingh/User-Authentication-API.git"
   },
-  "author": "Vikash",
+  "author": "Harsh Singh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Vikash20-12/Authentication/issues"
+    "url": "https://github.com/harxhsingh/User-Authentication-API/issues"
   },
-  "homepage": "https://github.com/Vikash20-12/Authentication#readme",
+  "homepage": "https://github.com/harxhsingh/User-Authentication-API",
   "dependencies": {
     "@hapi/joi": "^17.1.1",
     "bcryptjs": "^2.4.3",
